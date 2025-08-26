@@ -39,9 +39,9 @@ MIDDLE MOUSE TOOL CHANGE AND OTHERS .
 
 
 ## Frontend
-https://github.com/dhruvpatidar359/nextdraw
+https://github.com/Adesh8239179607/nextdrawfrontend
 ## Backend 
-https://github.com/dhruvpatidar359/nextDrawBackend
+https://github.com/Adesh8239179607/nextDrawBackend
 
 
 
@@ -70,7 +70,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-dhruvpatidar - dhruvpatidar35@gmail.com
+Adesh Mishra - Adeshmamta0515@gmail.com
 
 
 
