@@ -41,7 +41,7 @@ MIDDLE MOUSE TOOL CHANGE AND OTHERS .
 ## Frontend
 https://github.com/Adesh8239179607/nextdrawfrontend
 ## Backend 
-https://github.com/Adesh8239179607/nextDrawBackend
+https://github.com/Adesh8239179607/Nextdraw
 
 
 
